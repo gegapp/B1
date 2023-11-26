@@ -1,7 +1,7 @@
 {
-         "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+         "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://github.com/gegapp/B1/blob/aae26bf8fe58e1d90d33c56030743e57e54c7a65/image1.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.steadfastinnovation.android.projectpapyrus",
 
     "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
