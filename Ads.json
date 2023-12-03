@@ -26,7 +26,7 @@
   "unity_rewarded_video": "Rewarded_Android",
 
   "appLovin_app_id": "",
-  "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_banner": "",
+  "appLovin_interstitial": "",
+  "appLovin_rewarded_video": ""
 }
